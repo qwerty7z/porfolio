@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Namangaliklar",
+    github: "https://github.com/qwerty7z/namangaliklar",
+    vercel: "https://namangaliklar-omega.vercel.app/",
+  },
+
+  {
     title: "Book",
     github: "https://github.com/qwerty7z/home",
     vercel: "https://book-club-lime.vercel.app/",
